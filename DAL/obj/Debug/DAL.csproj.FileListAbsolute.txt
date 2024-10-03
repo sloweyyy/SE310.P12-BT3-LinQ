@@ -1,0 +1,18 @@
+D:\UIT\HK5\NET\LINQ to Object\DAL\bin\Debug\DAL.dll
+D:\UIT\HK5\NET\LINQ to Object\DAL\bin\Debug\DAL.pdb
+D:\UIT\HK5\NET\LINQ to Object\DAL\bin\Debug\DTO.dll
+D:\UIT\HK5\NET\LINQ to Object\DAL\bin\Debug\DTO.pdb
+D:\UIT\HK5\NET\LINQ to Object\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\UIT\HK5\NET\LINQ to Object\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\UIT\HK5\NET\LINQ to Object\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\UIT\HK5\NET\LINQ to Object\DAL\obj\Debug\DAL.dll
+D:\UIT\HK5\NET\LINQ to Object\DAL\obj\Debug\DAL.pdb
+D:\Code Workspace\SE310.P12-BT3-main\DAL\bin\Debug\DAL.dll
+D:\Code Workspace\SE310.P12-BT3-main\DAL\bin\Debug\DAL.pdb
+D:\Code Workspace\SE310.P12-BT3-main\DAL\bin\Debug\DTO.dll
+D:\Code Workspace\SE310.P12-BT3-main\DAL\bin\Debug\DTO.pdb
+D:\Code Workspace\SE310.P12-BT3-main\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Code Workspace\SE310.P12-BT3-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Code Workspace\SE310.P12-BT3-main\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Code Workspace\SE310.P12-BT3-main\DAL\obj\Debug\DAL.dll
+D:\Code Workspace\SE310.P12-BT3-main\DAL\obj\Debug\DAL.pdb

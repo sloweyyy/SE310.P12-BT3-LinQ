@@ -1,0 +1,12 @@
+D:\UIT\HK5\NET\LINQ to Object\DTO\bin\Debug\DTO.dll
+D:\UIT\HK5\NET\LINQ to Object\DTO\bin\Debug\DTO.pdb
+D:\UIT\HK5\NET\LINQ to Object\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\UIT\HK5\NET\LINQ to Object\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\UIT\HK5\NET\LINQ to Object\DTO\obj\Debug\DTO.dll
+D:\UIT\HK5\NET\LINQ to Object\DTO\obj\Debug\DTO.pdb
+D:\Code Workspace\SE310.P12-BT3-main\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Code Workspace\SE310.P12-BT3-main\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Code Workspace\SE310.P12-BT3-main\DTO\obj\Debug\DTO.dll
+D:\Code Workspace\SE310.P12-BT3-main\DTO\obj\Debug\DTO.pdb
+D:\Code Workspace\SE310.P12-BT3-main\DTO\bin\Debug\DTO.dll
+D:\Code Workspace\SE310.P12-BT3-main\DTO\bin\Debug\DTO.pdb
